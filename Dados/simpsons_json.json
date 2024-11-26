@@ -1,0 +1,996 @@
+{
+    "dialogue_sentiment": [
+        {
+            "dialogue": "Dad! We've been robbed!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Wake up, Dad! Wake up! There was a burglar and he took my saxophone.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Woo hoo!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "And our portable TV!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": null,
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "And my necklace.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Eh, that's no big loss.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Homer! That necklace was a priceless Bouvier family heirloom.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Oh, you've probably got a whole drawer full of 'em.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Well... Yes, I do. But they're all heirlooms, too.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "The burglar even took my stamp collection.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "YOU had a stamp collection?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": null,
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Stamp collection. Haw haw!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Bart's pain is funny, but mine isn't. That saxophone was my one creative outlet. It was the only way I could truly express myself.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Shhh, quiet Lisa.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Hey, the burglar left his calling card.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "\"You have just been robbed by The Springfield Cat Burglar\"... Cute.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Hidilly ho, neighboreenos.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Can't talk. Robbed. Go hell.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "You folks got robbed too? The burglar took my Shroud of Turin beach towels.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Wow. It's a crime wave.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Good Lord! My Stormin' Norman Commemorative Plates stolen... again.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Hey! I thought I had more stuff than this.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "We are insured, aren't we, Mom?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Homer, tell your child what you bought when I sent you to town to get some insurance.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Curse you, Magic Beans.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Oh, stop blaming the beans.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Hello, police? Are you sitting down? Good. I wish to report a robbery!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "A robbery, right. Thanks for the report.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Another one, Lou. 723 Evergreen Terrace.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Well, there doesn't seem to be any pattern, yet. But if I take this one and move it here, and move these over here... Hello... It almost looks like an arrow.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Hey look, Chief. It's pointing right at this police station.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Let's get outta here!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "When cat burglaries start, can mass murders be far behind? This reporter isn't saying that the burglar is an inhuman monster like the Wolfman, but he very well could be.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "So, professor, would you say it's time for everyone to panic?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Yes I would, Kent.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Ladies and gentlemen, ladies and gentlemen please, we have a major break in the case. We recovered the burglar's handkerchief from one of the crime scenes. Now one sniff of this baby and our tracking dog will be hot on his trail. Gosh, look at me, I'm sweating like a pig here...",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Ahhh. Aw man... that's better.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Alright, get the scent, boy. Come on. Get the scent. Now kill! Go on.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Ow, my jugular! Any questions?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Well, as you can see, when the burglar trips the alarm, the house raises from its foundations and runs down the street and around a corner to safety.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Well, the the real humans won't uh.. won't burn quite so fast there.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Cool! High-tech security system.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Alright, free laserium. All the colors of the bow, man.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "My cataracts are gone! I can see again! All the beauty of nat...",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I'm blind! Oh well, easy come easy go.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "It's the cat burglar! Please, don't kill me!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Abe, can I use your ointment?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Oh, it's you, Molloy. Alright. But this time clean off the applicator.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Thank you for coming. I'll see you in Hell.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Alright, these are our new family security rules: Be home before dark, and make sure you're not followed, lock all doors and windows.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "And don't take candy from strangers.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Marge, they're only human.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "What's the point of all these precautions? I've already lost the only thing that matters to me.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Oh Lisa, stop pining for your saxophone. I got you another instrument.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "What, this jug?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Lisa, never, ever stop in the middle of a hoe-down.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": null,
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Aw, honey. I didn't realize how much that horn meant to you. Don't worry. Daddy's gonna get it back. I don't know how, but I'll figure out something.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Thank you.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "You know Lisa, music helps daddy think.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Welcome, neighbors... since the police can't seem to get off their dufferoonies to do something about this burglarino, I think it's time we start our own neighborhood watch... arooni!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": null,
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Now, who should lead the group?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "You!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Yeah! Flanders! Flanders! Flanders!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I don't really have very much experience, but I'll be---",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Someone else!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Yeah! Someone else! Someone else! Someone else!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I'm someone else!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "He's right!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "We don't need a thinker, we need a doer. Someone who'll act without considering the consequences.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Homer! Homer! Homer!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I'm with you, Homer.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I be with ya too, matey.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I'm with you, Homer.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "You're the man, Homer.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "You're so good.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "You're the man, man.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I'll join! I'm filled with piss and vinegar. At first I was just filled with vinegar...",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Sorry, Dad. You're too old.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Too old! Why that just means I have experience. Who chased the Irish out of Springfield Village in ought four? Me, that's who!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "And a fine job ye did too!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Aw, Dad, you've done a lot of great things, but you're a very old man now, and old people are useless. Aren't they? Aren't they? Huh? Yes they are. Yes they are...",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Stop it! It's a form of abuse!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I don't think the guns are a good idea, Homer.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Marge, we're responsible adults and...",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Oops.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "... and if a group of responsible adults can't handle firearms in a responsible way...",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Sorry.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Uh-oh!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Me again.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Sorry.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Okay, we've got the secret vigilante handshake. Now we need code names. I'll be \"Cueball.\" Skinner can be \"Eightball\", Barney will be \"Twelveball,\" and Moe, you can be \"Cueball.\"",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "You're an idiot.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "So, wedding, huh?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "No, we're forming a vigilante group.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Come with me.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "See, it's a miniature version of the A-bomb. The government built it in the fifties to drop on beatniks.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Radiant cool crazy nightmare. Zen New Jersey nowhere.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Put this in your pipe and smoke it.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "How now brown bureaucrats.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Woo Hoo! Woo hoo hoo hoo!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Woo hoo, hoo! Take that Maynard G. Krebs!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Hey, see this sign?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Sorry.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Okay, men, it's time to clean up this town.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Meaning what exactly?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "You know, push people around, make ourselves feel big.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Bart, give me that megaphone of yours.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "It's not just a megaphone, Dad. It's a RapMaster 2000.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Never mind the commercials. Just give it to me. I've got to whip this neighborhood into shape.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Move along there.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "It's Hammer!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Return to your homes and places of businesses!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Hey you, where'd you get that saxophone?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Sears.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Get him!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "No burning leaves without a permit!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I got one.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Too late.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "You better have a good reason for doing that, boy.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "It makes me feel like a big man.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Let me check my reason list.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Yep. It's on here.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Hey, you're that drunken posse. Wow, can I join you?",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I dunno. Can you swing a sack of door knobs?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Can I?!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "You're in. Here's the sack.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "But you gotta supply your own knobs.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "So I said to him, \"Look buddy, your car was upside down when we got here. And as for your Grandma, she shouldn't have mouthed off like that.\"",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Dad, don't you see you're abusing your power like all vigilantes? I mean, if you're the police, who will police the police?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I 'unno. Coast Guard?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Homer, wasn't the whole point to catch the cat burglar?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "And I still don't have my saxophone.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Lisa, the mob is working on getting your saxophone back, but we've also expanded into other important areas.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Literacy programs... preserving our beloved covered bridges... world domination...",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "World domination?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Oh, that might be a typo.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Mental note: \"The girl knows too much.\"",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Mr. Simpson, how do you respond to the charge that petty vandalism such as graffiti is down 80 percent, while heavy sack beatings are up a shocking 900 percent?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Aw, people can come up with statistics to prove anything, Kent. Forty percent of all people know that.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "I see. Well, what do you say to the accusation that your group has been causing more crimes than it's been preventing?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Oh, Kent, I'd be lying if I said my men weren't committing crimes.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Touché.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Well, it looks like we have our first caller. And I mean ever, because this is not a call-in show. Hello, you're on the air.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Hello, Kent. Hello, Homer, my arch nemesis.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Y'ello.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Uh, you do realize who this is...",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Uh... Marge?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "No, Homer, I'm not your wife, although I do enjoy her pearls. As a matter of fact, I'm holding them right now. Listen.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Why you monster! And you have my daughter's saxophone too!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Homer, that's our stage manager!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Oh sorry. I'm a little nervous.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "It may interest you to know that for my next crime I'll be pinching the pride and joy of the Springfield Museum, the world's largest cubic zirconia.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Listen, Mr. Cat Burglar, I vow to go without sleep and guard the Springfield museum day and night for as long as it takes, from now on unless you want to taunt me more by giving me an approximate time.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "We'll be right back.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "I get to say that.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Son, we wanna help you catch that plug-ugly-yegg.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Dad, the best way for you to help is to set a good example. Just stand around and don't steal anything.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Hey!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "We're on our break!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Any sign of the burglar yet?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "He'll show.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "How's that?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "It's his job.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "How's that?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "He's a burglar.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Well, Mr. Cat Burglar, you'd like to get in here, wouldn't you? There's just one little problem. Thirty-six years ago some lady gave birth to a man named Homer J. Sim -- Oh my God! Underage kids drinking beer without a permit!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Chug! Chug! Chug! Chug! Chug!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Asleep at the switch! I wasn't asleep! I was drunk!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I believe you, Dad.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Well, no matter what the paper says, I still have a job to do.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Go home, Simpson.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "You let me down, man. Now I don't believe in nothing no more. I'm going to law school.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Nooooo!",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Dad, maybe this will cheer you up.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Oh, this doesn't work any more.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I didn't say stop.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Oh my! I had no idea how much this town loved that zirconia.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Let me through! Coming through!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Oh, Grampa. They pelted you too?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "No. Actually I fell down at the Big Boy.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Son, I've come to help you. I know who the cat burglar is.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "What? Who? Huh? What?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Well, well, well. Before I was too old and no one wanted my help. Suddenly, look who comes to old Grampa for--wait! Where're you going?",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Come back. I'll tell you.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "He was right under my nose the whole time. He lives in my retirement home. His name is Molloy.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Wow! How'd you track him down, Grampa?",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Good question.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "On one of my frequent trips to the ground... I noticed Molloy wore sneakers.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "For sneaking! My next clue came just yesterday at the museum. We felt slighted by your age-bashing and started home.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Molloy said, 'I'll catch up with you.'",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "I couldn't quite put my finger on it. There was something strange about the way he walked. Much more vertical than usual. And finally, Molloy, unlike most retired people, has the world's largest cubic zirconia on his coffee table.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Aw, Dad, I could kiss you.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Well kiss me right here. It's the only part that still has feeling.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "No wait! I know where the burglar is!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "To the retirement home!",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Hooray!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "And there she is: the world's largest cubic zirconia.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "What an eyesore.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "So, Mr. Molloy. It seems that the cat has been caught by the very person that was trying to catch him.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "How ironic.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Homer old chum. Well done. If anyone was going to catch me, I'm glad it was you.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Actually, it wasn't me. It was my Dad, Grampa.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Thanks, son. So you see old people aren't so useless after all. Molloy's old and he outsmarted the lot of ya. And I'm even older and I outsmarted him.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Shut up.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I've had my moment.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "And of course, I'm happy to return all of your treasured possessions.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Selma, my dear, your lock of MacGyver's hair.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Thank you. I'll add it to the ball.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "And little Lisa, here's your saxophone.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Thank you. And thank you, Dad. You got it back, just like you said you would.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "I sincerely regret any inconvenience I may have caused. And although I have stolen your material goods, let me assure you that your dear town has stolen my heart.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Awwwww.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Oh, he's so charming!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Let's let him go.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Yeah!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Oh, sorry, folks. Gee, I really hate to spoil this little love-in, but Mr. Molloy broke the law. And when you break the law, you gotta go to jail.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Uh, that reminds me, uh, here's your monthly kickback.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "You just, you couldn't have picked a worse time.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I caught the cat burglar. I caught the cat burglar. That means you. You are the cat burglar.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "I suppose you're wondering where I hid all the millions of dollars I stole over the years.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Shut up.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Oh, wait a minute. Maybe we should uh, hear him out. Where'd you hide the loot, Molloy?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "It's buried right here in Springfield, under a Big T.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "No kidding.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Big T, huh?",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Well, I guess I'll be going to my home now and... sleep.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Yeah, me too. I will also go home for sleep.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Lemme through! I gotta find a Big T. There's millions of dollars buried under a Big T!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "We need more information.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "It's buried at 4723 Maple Valley Road.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Ah, you take highway 201 south for 15 minutes... take a left at the left.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "Oh, that was fun, ladies!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Whatsa matter with you, kid? You told me the stream was shallow. Why you... oh kid... I'll kill you...",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Hordes of panicky people seem to be evacuating the town for some unknown reason. Professor, without knowing precisely what the danger is, would you say it's time for our viewers to crack each other's heads open and feast on the goo inside?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Yes I would, Kent.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Whoa, I found something!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "It's just a piece of paper.",
+            "sentiment": "neutral"
+        },
+        {
+            "dialogue": "It's mine!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "\"Frightfully sorry, but there is no hidden treasure. I have already used this time to escape from your jail. Fondest wishes.\" Oh, I can't make out this signature.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Keep digging. We're bound to find something.",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "Hmmm. I guess we're not gonna find anything.",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "Uh, how're we gonna get outta here?",
+            "sentiment": "negative"
+        },
+        {
+            "dialogue": "We'll dig our way out!",
+            "sentiment": "positive"
+        },
+        {
+            "dialogue": "No, no! Dig up, stupid!",
+            "sentiment": "negative"
+        }
+    ]
+}

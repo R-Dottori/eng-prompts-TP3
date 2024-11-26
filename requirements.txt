@@ -1,0 +1,11 @@
+beautifulsoup4
+google-generativeai
+jupyter
+matplotlib
+pandas
+rouge
+sacrebleu
+scipy
+seaborn
+streamlit
+tiktoken
